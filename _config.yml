@@ -1,8 +1,8 @@
-title: JINA'S LOG
+title: NICE TO MEET YOU
 description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: GOOD LUCK TO YOU
-avatar: /logo.png
-email: oksu01@gmail.com
+author: github.com/oksu01
+avatar: 
+email: oksu010@gmail.com
 
 plugins:
   - jekyll-seo-tag
